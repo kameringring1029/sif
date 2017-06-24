@@ -1,0 +1,113 @@
+#!/usr/bin/perl
+
+use utf8;
+
+use strict;
+use warnings;
+use LWP::UserAgent;
+use HTML::TreeBuilder;
+use DBI;
+
+# urlを指定する
+my $url = 'https://www59.atwiki.jp/lovelive-sif/pages/379.html'; #UR
+#my $url = 'https://www59.atwiki.jp/lovelive-sif/pages/691.html'; #SSR
+#my $url = 'https://www59.atwiki.jp/lovelive-sif/pages/378.html'; #SR
+#my $url = 'https://www59.atwiki.jp/lovelive-sif/pages/210.html'; #R
+#my $url = 'https://www59.atwiki.jp/lovelive-sif/pages/101.html'; #N
+
+# IE8のフリをする
+my $user_agent = "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0)";
+
+# LWPを使ってサイトにアクセスし、HTMLの内容を取得する
+my $ua = LWP::UserAgent->new('agent' => $user_agent);
+my $res = $ua->get($url);
+my $content = $res->content;
+
+# HTML::TreeBuilderで解析する
+my $tree = HTML::TreeBuilder->new;
+$tree->parse($content);
+
+
+my $user = 'web';
+my $passwd = 'password';
+my $db = DBI->connect('DBI:mysql:sif_event:localhost', $user, $passwd);
+$db->do("set names utf8"); 
+
+my $type = "";
+my $skill = "";
+my $center_skill = "";
+my $flag = 0;
+
+my $rarity = 4;
+
+# DOM操作してトピックの部分だけ抜き出す。
+# <div id='topicsfb'><ul><li>....の部分を抽出する
+my $elm  = $tree->look_down('id', 'contents');
+my  @list =  $elm->find('tr');
+for my $tr (@list) {
+
+	if($rarity == 4 && $flag == 0){
+		$flag = 1;
+		next;
+	}
+
+	my @table = $tr->find('td');
+	if((defined($table[0]) && defined($table[2])) && $#table < 20 && $#table > 10){
+
+		print "table size : ".$#table."\n";
+
+		my $col = 0;
+
+    	my $id = $table[$col]->as_text;
+
+		my @names;
+		my $name, my $series;
+		
+		if(index($table[$col+2]->as_text, "(")>0){
+    		@names = split(/\(/,$table[$col+2]->as_text);
+			$name = (split(/2/,$names[0]))[0];
+    		$series = (split(/\)/,$names[1]))[0];
+		}else{
+    		@names = split(/（/,$table[$col+2]->as_text);
+			$name = (split(/2/,$names[0]))[0];
+    		$series = (split(/）/,$names[1]))[0];
+		}
+
+		if($#table == 18){
+			$type = $table[$col+4]->as_text;
+		} else {
+			$col = $col - 1;
+		}
+		my $type_id = 3;
+
+		if($type eq "スマイル"){ $type_id = 0;}
+		if($type eq "ピュア"){ $type_id = 1;}
+		if($type eq "クール"){ $type_id = 2;}
+
+	
+		if($rarity == 0){ $col = $col - 3;}
+		my $S_0 = $table[$col+10]->as_text;
+		my $P_0 = $table[$col+11]->as_text;
+		my $C_0 = $table[$col+12]->as_text;
+		my $S_1 = $table[$col+14]->as_text;
+		my $P_1 = $table[$col+15]->as_text;
+		my $C_1 = $table[$col+16]->as_text;
+
+		if($#table == 18){
+			$skill = $table[$col+17]->as_text;
+			$center_skill = $table[$col+18]->as_text;
+		}
+
+		my $command = "INSERT INTO carddata VALUES (".$id.",'".$name."','".$series."',".$type_id.",".$S_0.",".$P_0.",".$C_0.",".$S_1.",".$P_1.",".$C_1.",'".$skill."','".$center_skill."',".$rarity.")";
+		print $command."\n";
+		my $sth = $db->prepare($command);
+		$sth->execute;
+		$sth->finish;
+
+#		print "|".$id."|".$name.":".$series."|".$type."|".$S_0."/".$P_0."/".$C_0."|".$S_1."/".$P_1."/".$C_1."|".$skill."|".$center_skill."|\n"
+	}
+} 
+
+$db->disconnect;
+
+

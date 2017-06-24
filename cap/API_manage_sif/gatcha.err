@@ -1,0 +1,1877 @@
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 191, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+./gatcha.sh: line 10: 29190 Killed                  /home/pi/sif/cap/manage_sif/gatcha.py
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 231, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 231, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode character u'\u500d' in position 3: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 231, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 231, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 231, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 17-18: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 231, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='userstream.twitter.com', port=443): Read timed out.
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 231, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-35: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 231, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-10: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 231, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 231, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 18-32: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 231, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-33: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 231, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 231, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 231, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 19-20: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 231, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 231, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-8: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 231, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 231, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='userstream.twitter.com', port=443): Read timed out.
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 231, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 231, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 17-18: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 231, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 23-62: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 231, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-30: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 231, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 231, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 231, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 231, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 231, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 17-18: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 231, in <module>
+    if __name__ == '__main__':
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 21, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 167
+    def create_gacha_image(self, *icons, *rarities):
+                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 235, in <module>
+    print "gatcha.py end\n"
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 232, in <module>
+    #	stream.timeout = None
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode character u'\u51db' in position 19: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 17-18: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 17-18: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-7: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 17-18: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 17-18: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 2-18: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode character u'\u4eca' in position 0: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode character u'\u5e74' in position 21: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-5: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-35: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-37: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='userstream.twitter.com', port=443): Read timed out.
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-8: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-8: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 16-18: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 17-18: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-7: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-5: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+AttributeError: 'NoneType' object has no attribute 'strip'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 12-13: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-4: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='userstream.twitter.com', port=443): Read timed out.
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-10: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 17-19: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-11: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-36: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+AttributeError: 'NoneType' object has no attribute 'strip'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='userstream.twitter.com', port=443): Read timed out.
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 12-27: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 16-18: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 17-18: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 20-23: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-36: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-31: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='userstream.twitter.com', port=443): Read timed out.
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 19-37: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 20-23: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 17-19: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 6-24: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='userstream.twitter.com', port=443): Read timed out.
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+AttributeError: 'NoneType' object has no attribute 'strip'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 16-19: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 17-20: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-26: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-4: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='userstream.twitter.com', port=443): Read timed out.
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-8: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 16-17: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 18-19: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 16-17: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 18-19: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-10: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-14: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-38: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-13: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='userstream.twitter.com', port=443): Read timed out.
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-7: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-16: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-13: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-20: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-15: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-13: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-14: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-5: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 4-7: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-39: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 21-41: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-5: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-4: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-4: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='userstream.twitter.com', port=443): Read timed out.
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 19-33: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode character u'\u3010' in position 20: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-19: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 15-41: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-18: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode character u'\u51db' in position 18: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-27: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='userstream.twitter.com', port=443): Read timed out.
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-12: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-25: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-9: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-36: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 233, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode character u'\u5e0c' in position 17: ordinal not in range(128)

@@ -1,0 +1,66 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+use LWP::UserAgent;
+use HTML::TreeBuilder;
+use DBI;
+
+# urlを指定する
+my $url = 'https://www59.atwiki.jp/lovelive-sif/pages/378.html';
+
+# IE8のフリをする
+my $user_agent = "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0)";
+
+# LWPを使ってサイトにアクセスし、HTMLの内容を取得する
+my $ua = LWP::UserAgent->new('agent' => $user_agent);
+my $res = $ua->get($url);
+my $content = $res->content;
+
+# HTML::TreeBuilderで解析する
+my $tree = HTML::TreeBuilder->new;
+$tree->parse($content);
+
+# DOM操作してトピックの部分だけ抜き出す。
+# <div id='topicsfb'><ul><li>....の部分を抽出する
+
+
+my $elm  = $tree->look_down('id', 'contents');
+my  @list =  $elm->find('tr');
+for my $tr (@list) {
+	my @table = $tr->find('td');
+	if(defined($table[0]) && defined($table[2])){
+
+    	my $id = $table[0]->as_text;
+
+		my @names;
+		my $name, my $series;
+		
+		if(index($table[2]->as_text, "(")>0){
+    		@names = split(/\(/,$table[2]->as_text);
+			$name = (split(/2/,$names[0]))[0];
+    		$series = (split(/\)/,$names[1]))[0];
+		}else{
+    		@names = split(/（/,$table[2]->as_text);
+			$name = (split(/2/,$names[0]))[0];
+    		$series = (split(/）/,$names[1]))[0];
+		}
+
+		my $type = $table[4]->as_text;
+
+		my $S_0 = $table[10]->as_text;
+		my $P_0 = $table[11]->as_text;
+		my $C_0 = $table[12]->as_text;
+		my $S_1 = $table[14]->as_text;
+		my $P_1 = $table[15]->as_text;
+		my $C_1 = $table[16]->as_text;
+
+		my $skill = $table[17]->as_text;
+		my $center_skill = $table[18]->as_text;
+
+		print "|".$id."|".$name.":".$series."|".$type."|".$S_0."/".$P_0."/".$C_0."|".$S_1."/".$P_1."/".$C_1."|".$skill."|".$center_skill."|\n"
+	}
+} 
+
+
+

@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+
+<resultset statement="select * from cf2_test
+" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <row>
+	<field name="time">2016-04-24 19:44:33</field>
+	<field name="point">53110</field>
+	<field name="item">0</field>
+	<field name="border_double">63091</field>
+	<field name="border_single">30171</field>
+  </row>
+
+  <row>
+	<field name="time">2016-04-24 19:45:35</field>
+	<field name="point">53110</field>
+	<field name="item">0</field>
+	<field name="border_double">63091</field>
+	<field name="border_single">30171</field>
+  </row>
+
+  <row>
+	<field name="time">2016-04-24 19:35:00</field>
+	<field name="point">53110</field>
+	<field name="item">0</field>
+	<field name="border_double">63091</field>
+	<field name="border_single">30171</field>
+  </row>
+
+  <row>
+	<field name="time">2016-04-24 19:35:00</field>
+	<field name="point">53110</field>
+	<field name="item">0</field>
+	<field name="border_double">63091</field>
+	<field name="border_single">30171</field>
+  </row>
+
+  <row>
+	<field name="time">2016-04-24 19:35:00</field>
+	<field name="point">53110</field>
+	<field name="item">0</field>
+	<field name="border_double">63091</field>
+	<field name="border_single">30171</field>
+  </row>
+
+  <row>
+	<field name="time">2016-04-24 19:35:00</field>
+	<field name="point">53110</field>
+	<field name="item">0</field>
+	<field name="border_double">63091</field>
+	<field name="border_single">30171</field>
+  </row>
+
+  <row>
+	<field name="time">2016-04-24 19:35:00</field>
+	<field name="point">53110</field>
+	<field name="item">0</field>
+	<field name="border_double">63091</field>
+	<field name="border_single">30171</field>
+  </row>
+
+  <row>
+	<field name="time">2016-04-24 19:35:00</field>
+	<field name="point">53110</field>
+	<field name="item">0</field>
+	<field name="border_double">63091</field>
+	<field name="border_single">30171</field>
+  </row>
+
+  <row>
+	<field name="time">2016-04-24 19:35:00</field>
+	<field name="point">53110</field>
+	<field name="item">0</field>
+	<field name="border_double">63091</field>
+	<field name="border_single">30171</field>
+  </row>
+
+  <row>
+	<field name="time">2016-04-24 19:35:00</field>
+	<field name="point">53110</field>
+	<field name="item">0</field>
+	<field name="border_double">63091</field>
+	<field name="border_single">30171</field>
+  </row>
+
+  <row>
+	<field name="time">2016-04-24 19:35:00</field>
+	<field name="point">53110</field>
+	<field name="item">0</field>
+	<field name="border_double">63091</field>
+	<field name="border_single">30171</field>
+  </row>
+
+  <row>
+	<field name="time">2016-04-24 20:09:12</field>
+	<field name="point">53110</field>
+	<field name="item">0</field>
+	<field name="border_double">63091</field>
+	<field name="border_single">30171</field>
+  </row>
+
+  <row>
+	<field name="time">2016-04-24 19:35:00</field>
+	<field name="point">53110</field>
+	<field name="item">0</field>
+	<field name="border_double">63091</field>
+	<field name="border_single">30171</field>
+  </row>
+
+  <row>
+	<field name="time">2016-04-24 19:35:00</field>
+	<field name="point">53110</field>
+	<field name="item">0</field>
+	<field name="border_double">63091</field>
+	<field name="border_single">30171</field>
+  </row>
+
+  <row>
+	<field name="time">2016-04-24 20:35:00</field>
+	<field name="point">53110</field>
+	<field name="item">0</field>
+	<field name="border_double">63683</field>
+	<field name="border_single">30473</field>
+  </row>
+
+  <row>
+	<field name="time">2016-04-24 20:41:39</field>
+	<field name="point">53539</field>
+	<field name="item">0</field>
+	<field name="border_double">63683</field>
+	<field name="border_single">30473</field>
+  </row>
+</resultset>

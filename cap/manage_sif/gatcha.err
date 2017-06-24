@@ -1,0 +1,57 @@
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 235, in <module>
+    stream.userstream()
+
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 4, in <module>
+    from tweepy.streaming import StreamListener, Stream
+  File "build/bdist.linux-armv7l/egg/tweepy/__init__.py", line 12, in <module>
+  File "build/bdist.linux-armv7l/egg/tweepy/models.py", line 7, in <module>
+  File "build/bdist.linux-armv7l/egg/tweepy/utils.py", line 10, in <module>
+  File "/usr/lib/python2.7/dist-packages/six.py", line 89, in __get__
+    result = self._resolve()
+  File "/usr/lib/python2.7/dist-packages/six.py", line 153, in _resolve
+    module = _import_module(self.mod)
+  File "/usr/lib/python2.7/dist-packages/six.py", line 79, in _import_module
+    __import__(name)
+  File "/usr/lib/python2.7/urllib.py", line 26, in <module>
+    import socket
+  File "/usr/lib/python2.7/socket.py", line 53, in <module>
+    import _ssl
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 235, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 263, in _run
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 313, in _read_loop
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 179, in read_line
+  File "/usr/lib/python2.7/dist-packages/urllib3/response.py", line 186, in read
+    data = self._fp.read(amt)
+  File "/usr/lib/python2.7/httplib.py", line 549, in read
+    return self._read_chunked(amt)
+  File "/usr/lib/python2.7/httplib.py", line 591, in _read_chunked
+    line = self.fp.readline(_MAXLINE + 1)
+  File "/usr/lib/python2.7/socket.py", line 476, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/lib/python2.7/dist-packages/urllib3/contrib/pyopenssl.py", line 196, in recv
+    [self.socket], [], [], self.socket.gettimeout())
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 235, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/gatcha.py", line 235, in <module>
+    stream.userstream()
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 394, in userstream
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 361, in _start
+  File "build/bdist.linux-armv7l/egg/tweepy/streaming.py", line 294, in _run
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+/home/pi/sif/cap/manage_sif/gatcha.sh: line 10: 12588 Killed                  /home/pi/sif/cap/manage_sif/gatcha.py
+/home/pi/sif/cap/manage_sif/gatcha.sh: line 10: 12627 Killed                  /home/pi/sif/cap/manage_sif/gatcha.py
+/home/pi/sif/cap/manage_sif/gatcha.sh: line 10: 12678 Killed                  /home/pi/sif/cap/manage_sif/gatcha.py

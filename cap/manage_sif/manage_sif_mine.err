@@ -1,0 +1,468 @@
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 33, in <module>
+    useBurp.read_burplog(point)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 29, in read_burplog
+    f = open('/home/pi/sif/cap/mirrordir/prod-jp.lovelive.ge.klabgames.net_main.php_battle_endRoom.json', 'r')
+IOError: [Errno 2] No such file or directory: '/home/pi/sif/cap/mirrordir/prod-jp.lovelive.ge.klabgames.net_main.php_battle_endRoom.json'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 33, in <module>
+    useBurp.read_burplog(point)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 29, in read_burplog
+    f = open('/home/pi/sif/cap/mirrordir/prod-jp.lovelive.ge.klabgames.net_main.php_battle_endRoom.json', 'r')
+IOError: [Errno 2] No such file or directory: '/home/pi/sif/cap/mirrordir/prod-jp.lovelive.ge.klabgames.net_main.php_battle_endRoom.json'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 33, in <module>
+    useBurp.read_burplog(point)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 29, in read_burplog
+    f = open('/home/pi/sif/cap/mirrordir/prod-jp.lovelive.ge.klabgames.net_main.php_battle_endRoom.json', 'r')
+IOError: [Errno 2] No such file or directory: '/home/pi/sif/cap/mirrordir/prod-jp.lovelive.ge.klabgames.net_main.php_battle_endRoom.json'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 33, in <module>
+    useBurp.read_burplog(point)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 29, in read_burplog
+    f = open('/home/pi/sif/cap/mirrordir/prod-jp.lovelive.ge.klabgames.net_main.php_battle_endRoom.json', 'r')
+IOError: [Errno 2] No such file or directory: '/home/pi/sif/cap/mirrordir/prod-jp.lovelive.ge.klabgames.net_main.php_battle_endRoom.json'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 33, in <module>
+    useBurp.read_burplog(point)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 29, in read_burplog
+    f = open('/home/pi/sif/cap/mirrordir/prod-jp.lovelive.ge.klabgames.net_main.php_battle_endRoom.json', 'r')
+IOError: [Errno 2] No such file or directory: '/home/pi/sif/cap/mirrordir/prod-jp.lovelive.ge.klabgames.net_main.php_battle_endRoom.json'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 36, in <module>
+    useBurp.read_burplog(point)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 31, in read_burplog
+    f = open("/home/pi/sif/cap/mirrordir/prod-jp.lovelive.ge.klabgames.net_main.php_challenge_finalize.json", 'r')
+IOError: [Errno 2] No such file or directory: '/home/pi/sif/cap/mirrordir/prod-jp.lovelive.ge.klabgames.net_main.php_challenge_finalize.json'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 36, in <module>
+    useBurp.read_burplog(point)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 35, in read_burplog
+    points.setRank(jsonData['after_user_info']['level'])
+TypeError: list indices must be integers, not str
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 15, in <module>
+    import usesql
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 134
+    +","+str(lp_now)+","+str(lp_max)+","+str(exp_now)
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 39, in <module>
+    useSQL.update_statusTable(point)
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 126, in update_statusTable
+    rank = points.getRank()
+AttributeError: Points instance has no attribute 'getRank'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 36, in <module>
+    useBurp.read_burplog(point)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 35, in read_burplog
+    points.setRank(jsonData['after_user_info']['level'])
+TypeError: list indices must be integers, not str
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 36, in <module>
+    useBurp.read_burplog(point)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 35, in read_burplog
+    points.setRank(int(jsonData['after_user_info']['level']))
+TypeError: list indices must be integers, not str
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 36, in <module>
+    useBurp.read_burplog(point)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 29, in read_burplog
+    f = open('/home/pi/sif/cap/mirrordir/prod-jp.lovelive.ge.klabgames.net_main.php_battle_endRoom.json', 'r')
+IOError: [Errno 2] No such file or directory: '/home/pi/sif/cap/mirrordir/prod-jp.lovelive.ge.klabgames.net_main.php_battle_endRoom.json'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 40, in <module>
+    useSQL.update_statusTable(point)
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 126, in update_statusTable
+    rank = points.getRank()
+AttributeError: Points instance has no attribute 'getRank'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 17, in <module>
+    import points
+  File "/home/pi/sif/cap/manage_sif/points.py", line 32
+    self.lp_max_time = tdatetime
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 17, in <module>
+    import points
+  File "/home/pi/sif/cap/manage_sif/points.py", line 32
+    self.lp_max_time = tdatetime
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 17, in <module>
+    import points
+  File "/home/pi/sif/cap/manage_sif/points.py", line 32
+    self.lp_max_time = tdatetime
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 37, in <module>
+    useBurp.read_burplog(point)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 37, in read_burplog
+    points.setLpmaxtime(jsonData['after_user_info']['energy_full_time'])
+  File "/home/pi/sif/cap/manage_sif/points.py", line 35, in setLpmaxtime
+    setLpnow(self.lp_max - (delta.minute / 6))
+NameError: global name 'setLpnow' is not defined
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 37, in <module>
+    useBurp.read_burplog(point)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 30, in read_burplog
+    f = open("/home/pi/sif/cap/mirrordir/prod-jp.lovelive.ge.klabgames.net_main.php_festival_liveReward.json", 'r')
+IOError: [Errno 2] No such file or directory: '/home/pi/sif/cap/mirrordir/prod-jp.lovelive.ge.klabgames.net_main.php_festival_liveReward.json'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 37, in <module>
+    useBurp.read_burplog(point)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 43, in read_burplog
+    points.setEventpoint(jsonData['event_info']['event_point_info']['after_total_event_point'])
+TypeError: list indices must be integers, not str
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 37, in <module>
+    useBurp.read_burplog(point)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 30, in read_burplog
+    f = open('/home/pi/sif/cap/mirrordir/prod-jp.lovelive.ge.klabgames.net_main.php_battle_endRoom.json', 'r')
+IOError: [Errno 2] No such file or directory: '/home/pi/sif/cap/mirrordir/prod-jp.lovelive.ge.klabgames.net_main.php_battle_endRoom.json'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 37, in <module>
+    useBurp.read_burplog(point)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 43, in read_burplog
+    points.setEventpoint(jsonData['event_info']['event_point_info']['after_total_event_point'])
+TypeError: list indices must be integers, not str
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 50, in <module>
+    useBurp.read_burplog(point)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 47, in read_burplog
+    f = open(getUrl(event), 'r')
+NameError: global name 'getUrl' is not defined
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 50, in <module>
+    useBurp.read_burplog(point)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 47, in read_burplog
+    f = open(getUrl(event), 'r')
+NameError: global name 'getUrl' is not defined
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 50, in <module>
+    useBurp.read_burplog(point)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 47, in read_burplog
+    f = open(getUrl(event), 'r')
+NameError: global name 'getUrl' is not defined
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 52, in <module>
+    useBurp.read_burplog(point)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 47, in read_burplog
+    f = open(self.getUrl(event), 'r')
+IOError: [Errno 2] No such file or directory: '/home/pi/sif/cap/mirrordir/prod-jp.lovelive.ge.klabgames.net_main.php_live_reward.json'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 52, in <module>
+    useBurp.read_burplog(point)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 47, in read_burplog
+    f = open(self.getUrl(event), 'r')
+IOError: [Errno 2] No such file or directory: ''
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 52, in <module>
+    useBurp.read_burplog(point)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 47, in read_burplog
+    f = open(self.getUrl(event), 'r')
+IOError: [Errno 2] No such file or directory: ''
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 60, in read_burplog
+    points.setEventpoint(jsonData['event_info']['event_point_info']['after_total_event_point'])
+TypeError: list indices must be integers, not str
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 52, in read_burplog
+    points.setRank(jsonData['after_user_info']['level'])
+KeyError: 'after_user_info'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 52, in read_burplog
+    points.setRank(jsonData['after_user_info']['level'])
+KeyError: 'after_user_info'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 56, in read_burplog
+    points.setExpnow(jsonAfterUserInfo['exp']-['previous_exp'])
+TypeError: unsupported operand type(s) for -: 'int' and 'list'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 69, in read_burplog
+    points.setEventpoint(json.load(f)['response_data']['event_info']['live_event_point_info']['after_total_event_point'])
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 68, in read_burplog
+    jsonData = json.load(f)['response_data']['event_info']['live_event_point_info']
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 68, in read_burplog
+    jsonData = json.load(f)['response_data']
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 49, in read_burplog
+    f = open(self.getUrl(event), 'r')
+IOError: [Errno 2] No such file or directory: ''
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 49, in read_burplog
+    f = open(self.getUrl(event), 'r')
+IOError: [Errno 2] No such file or directory: ''
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 49, in read_burplog
+    f = open(self.getUrl(event), 'r')
+IOError: [Errno 2] No such file or directory: ''
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 49, in read_burplog
+    f = open(self.getUrl(event), 'r')
+IOError: [Errno 2] No such file or directory: ''
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 49, in read_burplog
+    f = open(self.getUrl(event), 'r')
+IOError: [Errno 2] No such file or directory: ''
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 49, in read_burplog
+    f = open(self.getUrl(event), 'r')
+IOError: [Errno 2] No such file or directory: ''
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 49, in read_burplog
+    f = open(self.getUrl(event), 'r')
+IOError: [Errno 2] No such file or directory: ''
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 49, in read_burplog
+    f = open(self.getUrl(event), 'r')
+IOError: [Errno 2] No such file or directory: ''
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 49, in read_burplog
+    f = open(self.getUrl(event), 'r')
+IOError: [Errno 2] No such file or directory: ''
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 51, in read_burplog
+    jsonAfterUserInfo = jsonData['live_result']['after_user_info']
+KeyError: 'live_result'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 51, in read_burplog
+    jsonAfterUserInfo = jsonData['live_result']['after_user_info']
+KeyError: 'live_result'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 66, in read_burplog
+    points.setEventpoint(jsonData['event_info']['live_event_point_info']['after_total_event_point'])
+KeyError: 'live_event_point_info'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 66, in read_burplog
+    points.setEventpoint(jsonData['event_info']['live_event_point_info']['after_total_event_point'])
+KeyError: 'live_event_point_info'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 66, in read_burplog
+    points.setEventpoint(jsonData['event_info']['live_event_point_info']['after_total_event_point'])
+KeyError: 'live_event_point_info'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 63, in <module>
+    useBurp.read_burplog(point, "none")
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 49, in read_burplog
+    f = open(self.getUrl(event), 'r')
+IOError: [Errno 2] No such file or directory: ''
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 66, in read_burplog
+    points.setEventpoint(jsonData['event_info']['live_event_point_info']['after_total_event_point'])
+KeyError: 'live_event_point_info'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 63, in <module>
+    useBurp.read_burplog(point, "none")
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 49, in read_burplog
+    f = open(self.getUrl(event), 'r')
+IOError: [Errno 2] No such file or directory: ''
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 63, in <module>
+    useBurp.read_burplog(point, "none")
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 49, in read_burplog
+    f = open(self.getUrl(event), 'r')
+IOError: [Errno 2] No such file or directory: ''
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 49, in read_burplog
+    f = open(self.getUrl(event), 'r')
+IOError: [Errno 2] No such file or directory: ''
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 69, in read_burplog
+    points.setEventpoint(jsonData['event_info']['event_point_info']['after_total_event_point'])
+TypeError: list indices must be integers, not str
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 69, in read_burplog
+    points.setEventpoint(jsonData['event_info']['event_point_info']['after_total_event_point'])
+TypeError: list indices must be integers, not str
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 69, in read_burplog
+    points.setEventpoint(jsonData['event_info']['event_point_info']['after_total_event_point'])
+TypeError: list indices must be integers, not str
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 69, in read_burplog
+    points.setEventpoint(jsonData['event_info']['event_point_info']['after_total_event_point'])
+TypeError: list indices must be integers, not str
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 69, in read_burplog
+    points.setEventpoint(jsonData['event_info']['event_point_info']['after_total_event_point'])
+TypeError: list indices must be integers, not str
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 69, in read_burplog
+    points.setEventpoint(jsonData['event_info']['event_point_info']['after_total_event_point'])
+TypeError: list indices must be integers, not str
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 69, in read_burplog
+    points.setEventpoint(jsonData['event_info']['event_point_info']['after_total_event_point'])
+TypeError: list indices must be integers, not str
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 69, in read_burplog
+    points.setEventpoint(jsonData['event_info']['event_point_info']['after_total_event_point'])
+TypeError: list indices must be integers, not str
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 69, in read_burplog
+    points.setEventpoint(jsonData['event_info']['event_point_info']['after_total_event_point'])
+TypeError: list indices must be integers, not str
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 69, in read_burplog
+    points.setEventpoint(jsonData['event_info']['event_point_info']['after_total_event_point'])
+TypeError: list indices must be integers, not str
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 69, in read_burplog
+    points.setEventpoint(jsonData['event_info']['event_point_info']['after_total_event_point'])
+TypeError: list indices must be integers, not str
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 54, in <module>
+    useBurp.read_burplog(point, event)
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 69, in read_burplog
+    points.setEventpoint(jsonData['event_info']['event_point_info']['after_total_event_point'])
+TypeError: list indices must be integers, not str
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 63, in <module>
+    useBurp.read_burplog(point, "none")
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 49, in read_burplog
+    f = open(self.getUrl(event), 'r')
+IOError: [Errno 2] No such file or directory: ''
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 63, in <module>
+    useBurp.read_burplog(point, "none")
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 49, in read_burplog
+    f = open(self.getUrl(event), 'r')
+IOError: [Errno 2] No such file or directory: ''
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 63, in <module>
+    useBurp.read_burplog(point, "none")
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 49, in read_burplog
+    f = open(self.getUrl(event), 'r')
+IOError: [Errno 2] No such file or directory: ''
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 63, in <module>
+    useBurp.read_burplog(point, "none")
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 49, in read_burplog
+    f = open(self.getUrl(event), 'r')
+IOError: [Errno 2] No such file or directory: ''
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 63, in <module>
+    useBurp.read_burplog(point, "none")
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 49, in read_burplog
+    f = open(self.getUrl(event), 'r')
+IOError: [Errno 2] No such file or directory: ''
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 63, in <module>
+    useBurp.read_burplog(point, "none")
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 49, in read_burplog
+    f = open(self.getUrl(event), 'r')
+IOError: [Errno 2] No such file or directory: ''
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 63, in <module>
+    useBurp.read_burplog(point, "none")
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 49, in read_burplog
+    f = open(self.getUrl(event), 'r')
+IOError: [Errno 2] No such file or directory: ''
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 63, in <module>
+    useBurp.read_burplog(point, "none")
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 49, in read_burplog
+    f = open(self.getUrl(event), 'r')
+IOError: [Errno 2] No such file or directory: ''

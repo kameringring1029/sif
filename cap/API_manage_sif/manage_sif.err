@@ -1,0 +1,325 @@
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 14, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 232
+    return resized    
+                     ^
+IndentationError: unindent does not match any outer indentation level
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 14, in <module>
+    import usecv
+  File "/home/pi/sif/cap/manage_sif/usecv.py", line 232
+    return resized
+                 ^
+IndentationError: unindent does not match any outer indentation level
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 164, in closeDB
+    self.cursor.close()
+AttributeError: 'str' object has no attribute 'close'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 164, in closeDB
+    self.cursor.close()
+AttributeError: 'str' object has no attribute 'close'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 165, in closeDB
+    self.cursor.close()
+AttributeError: 'str' object has no attribute 'close'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 165, in closeDB
+    self.cursor.close()
+AttributeError: 'str' object has no attribute 'close'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 165, in closeDB
+    self.cursor.close()
+AttributeError: 'str' object has no attribute 'close'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 165, in closeDB
+    self.cursor.close()
+AttributeError: 'str' object has no attribute 'close'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 165, in closeDB
+    self.cursor.close()
+AttributeError: 'str' object has no attribute 'close'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 165, in closeDB
+    self.cursor.close()
+AttributeError: 'str' object has no attribute 'close'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 165, in closeDB
+    self.cursor.close()
+AttributeError: 'str' object has no attribute 'close'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 15, in <module>
+    import usesql
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 21
+    global connector = MySQLdb.connect(host="localhost", db="sif_event", user="web", passwd="password", charset="utf8")
+                     ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 163, in closeDB
+    self.cursor.close()
+AttributeError: UseSQL instance has no attribute 'cursor'
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 15, in <module>
+    import usesql
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 21
+    nonlocal connector = MySQLdb.connect(host="localhost", db="sif_event", user="web", passwd="password", charset="utf8")
+                     ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 15, in <module>
+    import usesql
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 21
+    nonlocal connector = MySQLdb.connect(host="localhost", db="sif_event", user="web", passwd="password", charset="utf8")
+                     ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 15, in <module>
+    import usesql
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 21
+    nonlocal connector = MySQLdb.connect(host="localhost", db="sif_event", user="web", passwd="password", charset="utf8")
+                     ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 15, in <module>
+    import usesql
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 21
+    nonlocal connector = MySQLdb.connect(host="localhost", db="sif_event", user="web", passwd="password", charset="utf8")
+                     ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif.py", line 104, in <module>
+    useSQL.closeDB()
+TypeError: closeDB() takes exactly 3 arguments (1 given)
