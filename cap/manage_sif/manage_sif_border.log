@@ -25537,3 +25537,10 @@ get_border
  DB updated.
 manage_sif.py end
 
+update_eventTable
+get_border
+06/24 19:40 45277 22823 13688
+[SQL]insert into sm32_border values('2016/06/24 19:40:00',45277,22823,13688)
+ DB updated.
+manage_sif.py end
+
