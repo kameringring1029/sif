@@ -201,7 +201,7 @@ class AbstractedlyListener(StreamListener):
 							series = 0
 
 					member_id = self.useSQL.rand_member(rarity,names,series)
-				(member_rare, member_name ,member_series, member_url) = self.useSQL.get_member(member_id)
+				(member_rare, member_name ,member_series, member_url, member_type, member_ss, member_sp, member_sc) = self.useSQL.get_member(member_id)
 
 				if (member_name != 'アルパカ' and member_rare == 'R') or (member_name == 'アルパカ' and member_rare == 'SR'):
 					member_info = member_rare + member_name

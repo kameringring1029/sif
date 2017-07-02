@@ -47,7 +47,7 @@ if __name__=="__main__":
 	useBurp = useburp.UseBurp()
 	point = points.Points()
 
-	event = "sm32"
+	event = "none"
 
 	if os.path.isfile(getUrl(event)):
 		print "analysis\n"

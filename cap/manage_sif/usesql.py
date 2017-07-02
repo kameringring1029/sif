@@ -409,8 +409,6 @@ class UseSQL:
 				name = '鞠莉'
 			if name == '黒澤ルビィ':
 				name = 'ルビィ'
-
-
 #			if max(result[3], result[4], result[5]) == result[3]:
 #				spc = "スマイル"
 #			if max(result[3], result[4], result[5]) == result[4]:
@@ -418,6 +416,11 @@ class UseSQL:
 #			if max(result[3], result[4], result[5]) == result[5]:
 #				spc = "クール"
 			spc = result[6].encode('utf-8')
+
+			status_s = result[3]
+			status_p = result[4]
+			status_c = result[5]
+
 
 
 			series = result[1].encode('utf-8')
@@ -454,7 +457,7 @@ class UseSQL:
 	
 		#	return (rare + name + "(" + series + ")", member_url)
 
-			return (rare, name, series, member_url)
+			return (rare, name, series, member_url, spc, status_s, status_p, status_c)
 				
 		except MySQLdb.Error, e:
 			try:

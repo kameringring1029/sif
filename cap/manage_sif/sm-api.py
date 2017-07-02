@@ -68,7 +68,7 @@ def get_weather(desc):
 @api.route('/event/<string:desc>', methods=['GET'])
 def get_eventinfo(desc):
 
-	event = "sm32"
+	event = "none"
 
 	print event
 
@@ -181,9 +181,6 @@ class smgatcha:
 				dobu = 0
 
 
-		#	member_id = 30
-		#	while member_id > 27 and member_id < 52:
-
 			series = 0
 			if rarity > 1:
 				print str(desc.rsplit(' ',1)[1].encode('utf-8'))
@@ -192,7 +189,7 @@ class smgatcha:
 					series = 0
 
 			member_id = self.useSQL.rand_member(rarity,names,series)
-			(member_rare, member_name, member_series, member_url) = self.useSQL.get_member(member_id)
+			(member_rare, member_name, member_series, member_url, member_type, member_ss, member_sp, member_sc) = self.useSQL.get_member(member_id)
 			(member_info, member_fullimgurl_0, member_fullimgurl_1) = self.useSQL.get_member_info(member_id)
 			if (member_name != 'アルパカ' and member_rare == 'R') or (member_name == 'アルパカ' and member_rare == 'SR'):
 				member_desc = member_rare + member_name
@@ -208,19 +205,20 @@ class smgatcha:
 			members["fullimgurl_0"] = str(member_fullimgurl_0)
 			members["fullimgurl_1"] = str(member_fullimgurl_1)
 			members["info"] = str(member_info)
+			members["type"] = str(member_type)
+			members["status_s"] = str(member_ss)
+			members["status_p"] = str(member_sp)
+			members["status_c"] = str(member_sc)
 
 			filename = '/home/pi/sif/cap/manage_sif/icon'+str(num)+'.gif'
 			command = "wget '"+str(member_url)+"' -O "+filename
 #			check = commands.getoutput(command)
 
-#			print check
 			icons.insert(num,filename+" "+str(rarity))
 
 			if num < 11:
 				membersArray.insert(num, members)
 
-		#members = members + "]"
-		# print "members:"+members[num]
 
 
 	#	self.useCV.create_gacha_image(icons)

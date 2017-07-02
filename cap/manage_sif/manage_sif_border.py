@@ -27,7 +27,7 @@ if __name__=="__main__":
 	useTwitter = usetwitter.UseTwitter()
 	useSQL = usesql.UseSQL()
 
-	useSQL.update_borderTable(useTwitter,"sm32")
+	useSQL.update_borderTable(useTwitter,"none")
 
 
 	print "manage_sif.py end\n"

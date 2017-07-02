@@ -466,3 +466,9 @@ Traceback (most recent call last):
   File "/home/pi/sif/cap/manage_sif/useburp.py", line 49, in read_burplog
     f = open(self.getUrl(event), 'r')
 IOError: [Errno 2] No such file or directory: ''
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_mine.py", line 63, in <module>
+    useBurp.read_burplog(point, "none")
+  File "/home/pi/sif/cap/manage_sif/useburp.py", line 49, in read_burplog
+    f = open(self.getUrl(event), 'r')
+IOError: [Errno 2] No such file or directory: ''
