@@ -142,7 +142,7 @@ for my $tr (@list) {
 		my $newicon = "http://kachagain.com/llsif/buttons/".$id.".png";
 
 		if($#table == $tablesize){
-			my @unit_skills = $table[$col+17]->find('span');
+			my @unit_skills = $table[$col+17]->find('b');
 			if(defined($unit_skills[0])){
 				$unit_skill = $unit_skills[0]->as_text;
     			$unit_skill_detail = $table[$col+17]->as_text;
@@ -152,7 +152,7 @@ for my $tr (@list) {
 				$unit_skill_detail = '';
 			}
 
-			my @center_skills = $table[$col+18]->find('span');
+			my @center_skills = $table[$col+18]->find('b');
 			$center_skill = $center_skills[0]->as_text;
     		$center_skill_detail = $table[$col+18]->as_text;
 			$center_skill_detail =~ s/(?:$center_skill)//g;

@@ -366,7 +366,7 @@ class UseSQL:
 
 		try:
  			##select
-			sql = "select name, series, rarity, S_0, P_0, C_0, type, image_url, fullimg_0, newicon from carddata where id="+str(member_id) 
+			sql = "select name, series, rarity, S_1, P_1, C_1, type, image_url, fullimg_0, newicon from carddata where id="+str(member_id) 
 	#		print "[SQL]"+sql
 			cursor.execute(sql)
 			result = cursor.fetchall()[0]
@@ -500,8 +500,8 @@ class UseSQL:
 
 
 			## μ's勧誘 排出メンバ限定
-			if names == ('高坂穂乃果','絢瀬絵里','南ことり','園田海未','星空凛','西木野真姫','東條希','小泉花陽','矢澤にこ') and rarity > 1:
-				sql = sql + "AND id>" + str(now_pool_id)
+			#if names == ('高坂穂乃果','絢瀬絵里','南ことり','園田海未','星空凛','西木野真姫','東條希','小泉花陽','矢澤にこ') and rarity > 1:
+			#	sql = sql + "AND id>" + str(now_pool_id)
 
 
 			print "[SQL]"+sql

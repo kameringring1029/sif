@@ -10557,3 +10557,515 @@ Traceback (most recent call last):
   File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
     time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
 IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/pi/sif/cap/manage_sif/manage_sif_border.py", line 30, in <module>
+    useSQL.update_borderTable(useTwitter,"none")
+  File "/home/pi/sif/cap/manage_sif/usesql.py", line 179, in update_borderTable
+    border_time, T1, T2, T3 = useTwitter.get_border()
+  File "/home/pi/sif/cap/manage_sif/usetwitter.py", line 121, in get_border
+    time = line[4].split(u' ')[1]+" "+line[4].split(u' ')[2]
+IndexError: list index out of range
