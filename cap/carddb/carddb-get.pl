@@ -153,6 +153,9 @@ for my $tr (@list) {
 			}
 
 			my @center_skills = $table[$col+18]->find('b');
+if($id > 1192 && $rarity == 4){
+@center_skills = $table[$col+18]->find('span');
+}
 			$center_skill = $center_skills[0]->as_text;
     		$center_skill_detail = $table[$col+18]->as_text;
 			$center_skill_detail =~ s/(?:$center_skill)//g;
