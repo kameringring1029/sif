@@ -516,39 +516,39 @@ class UseSQL:
 			member_id = result[random.randint(0,len(result)-1)][0]
 
 			## 確率UP
-			if names == ('高坂穂乃果','絢瀬絵里','南ことり','園田海未','星空凛','西木野真姫','東條希','小泉花陽','矢澤にこ'):
-				add_UR_member_num = 1
-				add_SSR_member_num = 0
-				add_SR_member_num = 2
-				rand = random.randint(0,100)
+#			if names == ('高坂穂乃果','絢瀬絵里','南ことり','園田海未','星空凛','西木野真姫','東條希','小泉花陽','矢澤にこ'):
+#				add_UR_member_num = 1
+#				add_SSR_member_num = 0
+#				add_SR_member_num = 2
+#				rand = random.randint(0,100)
 
-				if rarity == 4:
-					if rand>50:
-						member_id = result[random.randint(len(result)-add_UR_member_num,len(result)-1)][0]
-				if rarity == 3:
-					if rand>100:
-						member_id = result[random.randint(len(result)-add_SSR_member_num,len(result)-1)][0]
-				if rarity == 2:
-					if rand>85:
-						member_id = result[random.randint(len(result)-add_SR_member_num,len(result)-1)][0]
-
-
+#				if rarity == 4:
+#					if rand>50:
+#						member_id = result[random.randint(len(result)-add_UR_member_num,len(result)-1)][0]
+#				if rarity == 3:
+#					if rand>100:
+#						member_id = result[random.randint(len(result)-add_SSR_member_num,len(result)-1)][0]
+#				if rarity == 2:
+#					if rand>85:
+#						member_id = result[random.randint(len(result)-add_SR_member_num,len(result)-1)][0]
 
 
-			if names == ('高海千歌','桜内梨子','松浦果南','黒澤ダイヤ','渡辺曜','津島善子','国木田花丸','小原鞠莉','黒澤ルビィ'):
-				add_UR_member_num = 1
-				add_SSR_member_num = 1
-				add_SR_member_num = 3
 
-				if rarity == 4:
-					if random.randint(0,1):
-						member_id = result[random.randint(len(result)-add_UR_member_num,len(result)-1)][0]
-				if rarity == 3:
-					if random.randint(0,1):
-						member_id = result[random.randint(len(result)-add_SSR_member_num,len(result)-1)][0]
-				if rarity == 2:
-					if random.randint(0,1):
-						member_id = result[random.randint(len(result)-add_SR_member_num,len(result)-1)][0]
+
+#			if names == ('高海千歌','桜内梨子','松浦果南','黒澤ダイヤ','渡辺曜','津島善子','国木田花丸','小原鞠莉','黒澤ルビィ'):
+#				add_UR_member_num = 1
+#				add_SSR_member_num = 1
+#				add_SR_member_num = 3
+
+#				if rarity == 4:
+#					if random.randint(0,1):
+#						member_id = result[random.randint(len(result)-add_UR_member_num,len(result)-1)][0]
+#				if rarity == 3:
+#					if random.randint(0,1):
+#						member_id = result[random.randint(len(result)-add_SSR_member_num,len(result)-1)][0]
+#				if rarity == 2:
+#					if random.randint(0,1):
+#						member_id = result[random.randint(len(result)-add_SR_member_num,len(result)-1)][0]
 
 
 

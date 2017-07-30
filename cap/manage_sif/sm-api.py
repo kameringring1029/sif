@@ -68,7 +68,7 @@ def get_weather(desc):
 @api.route('/event/<string:desc>', methods=['GET'])
 def get_eventinfo(desc):
 
-	event = "none"
+	event = "ic201707"
 
 	print event
 
